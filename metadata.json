@@ -1,0 +1,11 @@
+{
+  "name": "Mizan",
+  "description": "O'zbekiston qonunchiligiga asoslangan AI huquqiy maslahatchisi va sud tahlili tizimi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
